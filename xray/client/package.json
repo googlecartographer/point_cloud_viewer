@@ -22,7 +22,7 @@
     "typescript": "~3.9.3"
   },
   "dependencies": {
-    "three": "~0.117.1"
+    "three": "~0.125.0"
   },
   "prettier": {
     "arrowParens": "always",

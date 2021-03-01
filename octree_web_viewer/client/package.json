@@ -24,7 +24,7 @@
   "dependencies": {
     "@types/dat.gui": "0.7.5",
     "dat.gui": "0.7.7",
-    "three": "~0.117.1"
+    "three": "~0.125.0"
   },
   "prettier": {
     "arrow-parens": "always",
